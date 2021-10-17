@@ -1,0 +1,4 @@
+#Sun Oct 17 22:19:00 KST 2021
+base.0=/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/path_provider/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/jwlee/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/path_provider/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/jwlee/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/path_provider/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/jwlee/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/path_provider/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/jwlee/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/path_provider/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/jwlee/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/jwlee/Desktop/1017_temp/temp/app_web_IoT_UMCS_Team60/APP/ucms/build/path_provider/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/jwlee/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/res/layout/notification_template_part_time.xml"
+    }
+]
