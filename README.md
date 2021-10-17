@@ -1,16 +1,6 @@
-# ucms
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 코드리팩터링
+- 초기값 binding으로 put하기
+- GetX 로 Obx 관리
+- 각종 오류 잡기
+- 패키지 정리
+- 2021.10.17 (19시~23시)
